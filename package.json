@@ -1,0 +1,15 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "job portal project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "saim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
